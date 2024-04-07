@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	tcpServer "github.com/Edu0liver/TCP-Server/tcp-server"
+	"github.com/Edu0liver/TCP-Server/tcpServer"
 )
 
 func main() {
